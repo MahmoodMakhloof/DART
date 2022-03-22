@@ -6,4 +6,5 @@ void main() {
   // modify in master
   // modify in b2
     // new feature 
+    /// another feature
 }
