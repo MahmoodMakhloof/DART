@@ -5,6 +5,6 @@ void main() {
   print('hello world');
   // modify in master
   // modify in b2
-    // new feature 
-    /// another feature
+  // new feature
+  /// another feature
 }
