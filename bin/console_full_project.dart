@@ -1,10 +1,8 @@
-import 'package:console_full_project/console_full_project.dart'
-    as console_full_project;
+import 'package:console_full_project/console_full_project.dart';
 
 void main() {
-  print('hello world');
-  // modify in master
-  // modify in b2
-  // new feature
-  /// another feature
+  print(calculateDiv().toString());
+  print(calculateMul().toString());
+  print(claculateAdd().toString());
+  print(calculateSub().toString());
 }

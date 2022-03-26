@@ -1,0 +1,15 @@
+name: calculator
+version: 1.0.0
+
+description: 'this package to calculate add , sub , multi and div for 2 numbers'
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+publish_to: none
+
+dependencies: 
+  lints: ^1.0.1
+
+executables:
+  calculator: calculator.dart

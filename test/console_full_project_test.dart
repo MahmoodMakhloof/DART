@@ -3,6 +3,9 @@ import 'package:test/test.dart';
 
 void main() {
   test('calculate', () {
-    expect(calculate(), 42);
+    expect(calculateDiv(), 4);
+    expect(calculateMul(), 16);
+    expect(calculateSub(), 6);
+    expect(claculateAdd(), 10);
   });
 }
